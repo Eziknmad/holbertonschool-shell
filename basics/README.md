@@ -1,0 +1,1 @@
+The file 0-current_working_directory is a file that print the current working directory.
