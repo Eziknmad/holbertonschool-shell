@@ -28,3 +28,6 @@ This is a repository for linux comand scripting:
 13- The 12-file_type outputs the type of the file iamafile located in /tmp/.
 
 14- The 13-symbolic_link create a symbolic link to /bin/ls to __ls__.
+
+15- The 14-copy_html file only copyes html that dont exist to the parent directory.
+
