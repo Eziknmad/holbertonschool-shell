@@ -25,3 +25,5 @@ This is a repository for linux comand scripting:
 
 12- The 11-lists long list and hidden files of the current, parent and boot directory.
 
+13- The 12-file_type outputs the type of the file iamafile located in /tmp/.
+
