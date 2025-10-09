@@ -15,3 +15,5 @@ This is a repository for linux comand scripting:
 
 7- Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 
+8- The 7-movethatfile move a file(betty) to a new directory in tmp/my_first_directory.
+
