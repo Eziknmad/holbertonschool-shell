@@ -22,3 +22,6 @@ This is a repository for linux comand scripting:
 10- The 9-firstdirdeletion delete the directory my_first_directory that is in the /tmp directory.
 
 11- The 10-back scripts write a script that changes the working directory to the previous one.
+
+12- The 11-lists long list and hidden files of the current, parent and boot directory.
+
