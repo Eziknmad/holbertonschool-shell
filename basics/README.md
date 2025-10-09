@@ -35,3 +35,4 @@ This is a repository for linux comand scripting:
 
 17- The 16-clean_emacs create a script that deletes all files in the current working directory that end with the character ~.
 
+18- The 17-tree file create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
