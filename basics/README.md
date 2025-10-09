@@ -11,3 +11,7 @@ This is a repository for linux comand scripting:
 5- The 4-listmorefiles display the current directory contents, including hidden files and also uses the long format.
 
 6- Display current directory contents in long format, hidden & user and group id.
+
+
+7- Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+
