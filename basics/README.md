@@ -20,3 +20,5 @@ This is a repository for linux comand scripting:
 9- The 8-firstdelete removes the betty file in the tmp/my_first_directory/.
 
 10- The 9-firstdirdeletion delete the directory my_first_directory that is in the /tmp directory.
+
+11- The 10-back scripts write a script that changes the working directory to the previous one.
