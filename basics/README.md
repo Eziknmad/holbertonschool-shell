@@ -27,3 +27,4 @@ This is a repository for linux comand scripting:
 
 13- The 12-file_type outputs the type of the file iamafile located in /tmp/.
 
+14- The 13-symbolic_link create a symbolic link to /bin/ls to __ls__.
