@@ -17,3 +17,5 @@ This is a repository for linux comand scripting:
 
 8- The 7-movethatfile move a file(betty) to a new directory in tmp/my_first_directory.
 
+9- The 8-firstdelete removes the betty file in the tmp/my_first_directory/.
+
