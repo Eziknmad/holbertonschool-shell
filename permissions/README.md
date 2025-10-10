@@ -14,3 +14,5 @@ You can file bash files related to automating linux command.
 
 7- The 6-multiple_permissions file adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
+8- The 7-everybody file adds execution permission to the owner, the group owner and the other users, to the file hello.
+
