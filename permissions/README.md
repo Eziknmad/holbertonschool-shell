@@ -8,3 +8,5 @@ You can file bash files related to automating linux command.
 
 4- The 3-new_owner file changes the owner of the file hello to the user betty.
 
+5- The 4-empty file created a empty hello file.
+
