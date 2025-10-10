@@ -12,3 +12,5 @@ You can file bash files related to automating linux command.
 
 6- The 5-execute adds execute permission to the owner of the file hello.
 
+7- The 6-multiple_permissions file adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+
