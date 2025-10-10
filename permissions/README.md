@@ -10,3 +10,5 @@ You can file bash files related to automating linux command.
 
 5- The 4-empty file created a empty hello file.
 
+6- The 5-execute adds execute permission to the owner of the file hello.
+
