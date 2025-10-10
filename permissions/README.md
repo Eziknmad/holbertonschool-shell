@@ -16,3 +16,6 @@ You can file bash files related to automating linux command.
 
 8- The 7-everybody file adds execution permission to the owner, the group owner and the other users, to the file hello.
 
+9- The 8-james_Bond file sets the permission to the file hello as follow: Owner: no permission at all, Group: no permission at all & Other users: all the permissions.
+
+10-The 9-John_Doe file 
