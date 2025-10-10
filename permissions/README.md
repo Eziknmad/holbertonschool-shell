@@ -6,3 +6,5 @@ You can file bash files related to automating linux command.
 
 3- The 2-groups file prints all the groups the current user is part of.
 
+4- The 3-new_owner file changes the owner of the file hello to the user betty.
+
