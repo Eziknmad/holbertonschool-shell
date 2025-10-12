@@ -1,5 +1,5 @@
 total 40
-drwxr-xr-x 1 kevin_galarza kevin_galarza 250 Oct 11 21:36 .
+drwxr-xr-x 1 kevin_galarza kevin_galarza 250 Oct 11 21:40 .
 drwxr-xr-x 1 kevin_galarza kevin_galarza 146 Oct 11 19:34 ..
 -rwxr-xr-x 1 kevin_galarza kevin_galarza  30 Oct 11 16:56 0-hello_world
 -rwxr-xr-x 1 kevin_galarza kevin_galarza  30 Oct 11 17:24 1-confused_smiley
@@ -8,7 +8,7 @@ drwxr-xr-x 1 kevin_galarza kevin_galarza 146 Oct 11 19:34 ..
 -rwxr-xr-x 1 kevin_galarza kevin_galarza  29 Oct 11 17:56 4-lastlines
 -rwxr-xr-x 1 kevin_galarza kevin_galarza  35 Oct 11 19:21 5-firstlines
 -rwxr-xr-x 1 kevin_galarza kevin_galarza  40 Oct 11 19:37 6-third_line
--rwxr-xr-x 1 kevin_galarza kevin_galarza  36 Oct 11 21:36 8-cws_state
+-rwxr-xr-x 1 kevin_galarza kevin_galarza  36 Oct 11 21:40 8-cwd_state
 -rw-r--r-- 1 kevin_galarza kevin_galarza 800 Oct 11 19:45 iacta
--rw-r--r-- 1 kevin_galarza kevin_galarza   0 Oct 11 21:36 ls_cwd_content
+-rw-r--r-- 1 kevin_galarza kevin_galarza   0 Oct 11 21:40 ls_cwd_content
 -rw-r--r-- 1 kevin_galarza kevin_galarza  56 Oct 11 17:05 README.md
