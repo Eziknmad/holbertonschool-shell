@@ -14,7 +14,11 @@ This repository contains my work for the Holberton School shell curriculum. Over
 
 holbertonschool-shell/
 ├── basics/ # Basic shell script exercises
+|
 ├── io_redirections_and_filters/ # I/O redirection & filters exercises
+|
 ├── permissions/ # File permissions exercises
+|
 ├── gitautomafile.sh # A personal helper script I created
+|
 └── README.md # This file
